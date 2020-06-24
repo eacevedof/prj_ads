@@ -40,4 +40,8 @@
 
 #### [Segmentación detallada:](https://youtu.be/DsiJGCftfyM?t=937)
 - Se puede seleccionar un comportamiento, un oficio del individuo
+- **Público personalizado** (se usa para excluir)
+  - Agregar personas a tu público
+  - [Landing page](https://youtu.be/DsiJGCftfyM?t=1129)
+  - Asignar nombre a lpúblico
 
