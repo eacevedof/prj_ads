@@ -50,3 +50,44 @@
 - Feeds, Stories, Instream, Mensajes
 - Inicialmente lanzar en todas las ubicaciones y despues realizar analísis para quitar las que han funcionado peor
 
+## [Anuncios](https://youtu.be/DsiJGCftfyM?t=1236)
+- Hay que nombrarlo de forma diferente. En el ejemplo le ha puesto ponentes
+- Identidad:
+  - Página de Fb. Vinculación a la página del sitio
+  - Cuenta de Ig. Lo mismo
+
+### Formato:
+- Imagen o video
+- Secuencia
+- coleccion (para ecommerce)
+
+### [Contenido del anuncio:](https://youtu.be/DsiJGCftfyM?t=1272)
+- Agregar contenido multimedia
+- Agregar la imagen
+  - Sube una de 1080 x 1080
+- Texto principal:
+  - Aludir a llamar a la acción 
+  ```
+  Doblerr.es Lanza esta promoción por tiempo limitado.
+  Por cualquier trabajo técnico o moldeado que te hagas te regalamos un
+  tratamiento de botox capilar valorado en 15 €.
+
+  Aprovecha esta promoción. Recibe tu código y ya.
+  ```
+  - A este texto se le puede acompañar con emojis. Extensión **joypixels**
+- Llamada a la acción:
+  - Reservar
+
+- Url del sitio web
+  - Hay que generar el formato correcto de url para google usando: [Campaing url builder](https://ga-dev-tools.appspot.com/campaign-url-builder/)
+  - [Ejemplo](https://youtu.be/DsiJGCftfyM?t=1493)
+- Enlace visible
+  - doblerr.es/promocion/<slug>
+- Ahora habría que darle a **Revisar y Publicar** (botón arriba a la derecha)
+
+### [Crear otro conjunto de anuncios](https://youtu.be/DsiJGCftfyM?t=1579)
+- Para empezar habría que crear 4 conjuntos de anuncios
+- Con distinta segmentación y ver cual funciona mejor
+- En **Público** hay un desplegable **crear** ahi le damos público similar
+- [Ejemplo](https://youtu.be/DsiJGCftfyM?t=1622)
+  - 
