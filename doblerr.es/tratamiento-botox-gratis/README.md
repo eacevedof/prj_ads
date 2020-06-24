@@ -20,5 +20,10 @@
   - `TF-<mujeres-mayores-de-25>`
 - Evento de conversion:
   - comprar. Aqui en mi caso no lo se ^^
-- Optimización para la entrega de anunciones:
-  - 
+- Optimización para la entrega de anuncios:
+  - Conversiones, Visitas a la página de destino, Otras opciones
+  - Conversión para mi es un registro?...
+- Presupuesto y calendario:
+  - Fecha de inicio:
+
+### Público (segmentación)
