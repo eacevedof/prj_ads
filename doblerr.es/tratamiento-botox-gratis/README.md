@@ -44,4 +44,9 @@
   - Agregar personas a tu público
   - [Landing page](https://youtu.be/DsiJGCftfyM?t=1129)
   - Asignar nombre a lpúblico
+    - Inscripciones promocion botox capilar [180 días]
+
+### [Ubcaciones](https://youtu.be/DsiJGCftfyM?t=1210)
+- Feeds, Stories, Instream, Mensajes
+- Inicialmente lanzar en todas las ubicaciones y despues realizar analísis para quitar las que han funcionado peor
 
