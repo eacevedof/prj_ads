@@ -90,4 +90,6 @@
 - Con distinta segmentación y ver cual funciona mejor
 - En **Público** hay un desplegable **crear** ahi le damos público similar
 - [Ejemplo](https://youtu.be/DsiJGCftfyM?t=1622)
-  - 
+  - Cuando tiende a 0 se parece más al publico personalizado
+
+- Cuanto más se acerque al funnel objetivo el público similar este tendrá mayor probabilidad de conversion
