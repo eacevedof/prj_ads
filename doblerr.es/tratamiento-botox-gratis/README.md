@@ -30,4 +30,14 @@
   - Fecha de inicio:
 
 ### [Público segmentación:](https://youtu.be/DsiJGCftfyM?t=690)
-- 
+- 70 - 90% depende de lo llamativo que sea la creatividad (imagen o video)
+- Lugar: 
+  - Madrid, a 15 Km a la redonda
+- Edad:
+  - Mayores de 25
+- Sexo:
+  - Mujeres
+
+#### [Segmentación detallada:](https://youtu.be/DsiJGCftfyM?t=937)
+- Se puede seleccionar un comportamiento, un oficio del individuo
+
