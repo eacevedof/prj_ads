@@ -2,6 +2,7 @@
 
 - [Figma - Creatividad](https://www.figma.com/file/IBs8ihNWiZcK0J7euWrKwg/promo-001?node-id=0%3A1)
 
+### Crear campaña:
 - Nombre de la campaña:
   - `[PC, MOV]-[Tratamiento botox capilar gratis]-[<obtjetivo de la campaña>]`
   - `[pc, mov]-[tratamiento botox capilar gratis]-[conversion]`
@@ -28,4 +29,5 @@
 - Presupuesto y calendario:
   - Fecha de inicio:
 
-### Público (segmentación)
+### [Público segmentación:](https://youtu.be/DsiJGCftfyM?t=690)
+- 
