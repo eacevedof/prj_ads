@@ -61,6 +61,7 @@
 - Secuencia
 - coleccion (para ecommerce)
 
+
 ### [Contenido del anuncio:](https://youtu.be/DsiJGCftfyM?t=1272)
 - Agregar contenido multimedia
 - Agregar la imagen
